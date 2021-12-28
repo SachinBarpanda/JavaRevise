@@ -14,5 +14,6 @@ public class b {
         int vol = a*b*c;
         int area = ((a*b)+(b*c)+(c*a));
         System.out.println("Volume : " + vol+" Area : "+area);
+        System.out.println();
     }
 }
